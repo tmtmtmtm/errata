@@ -225,7 +225,7 @@ The killer combination:
 1. [`active_record_inline_schema`](https://github.com/seamusabshere/active_record_inline_schema) - define table structure
 2. [`remote_table`](https://github.com/seamusabshere/remote_table) - download data and parse it
 3. [`errata`](https://github.com/seamusabshere/errata) (this library!) - apply corrections in a transparent way
-4. [`data_miner`](https://github.com/seamusabshere/remote_table) - import data idempotently
+4. [`data_miner`](https://github.com/seamusabshere/data_miner) - import data idempotently
 
 ## Authors
 
